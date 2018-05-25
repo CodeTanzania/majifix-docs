@@ -12,7 +12,7 @@
 
 ## Project Structure
 
-- [ ] Make sure .npmignore exist and it ignores right files
+- [ ] Make sure .npmignore exist and it ignores right files i.e examples, docs
 - [ ] Make sure .editorconfig exist
 
 ## Files to crosscheck
@@ -21,12 +21,15 @@
 
 - [ ] Use standard formatting
 - [ ] Update Requirements for node to match engines in package.json
-- [ ] Update Usage to use new package name
+- [ ] Update installation instructions
+- [ ] Update Usage to use new package name i.e **@codetanzania/majifix-{module-name}**
 - [ ] Fix any typos
+- [ ] Update Node engine minimum version
+- [ ] Update Mongoose version
 
 ### CHANGELOG.md
 
-- [ ] Add release version and date in the format **yyyy-mm-dd**
+- [ ] Add release version and date in the format **v1.0.0 / yyyy-mm-dd**
 - [ ] add list of changes/features in the release
 
 ### package.json
@@ -47,7 +50,7 @@
 - [ ] Add engines as
 	```json
         "engines": {
-    	   "node": ">=8.1.11",
+    	   "node": ">=8.11.1",
     	   "npm": ">=5.6.0"
   		}
     ```
@@ -84,3 +87,28 @@
 - [ ] Fix any typos
 - [ ] Update api version
 - [ ] Make sure all routes are well documented
+- [ ] Generate API documents
+
+### .app.json
+
+> *if there is app.json file*
+
+- [ ] Make sure the details are correct
+- [ ] Make sure keywords resembles those from package.json
+
+### .apidoc.json
+
+> *if there is apidoc.json*
+
+- [ ] Remove description field
+- [ ] Remove version field
+
+## Generate API Documentation
+
+> *if applicable to the module*
+
+- [ ] Run a command
+  ```sh
+  grunt doc
+  ```
+- [ ] Generate apidoc and crosscheck if everything is ok
