@@ -1,4 +1,4 @@
-# MAJIFIX MODULE RELEASE CHECKLIST
+# Majifix Module Release Checklist
 
 > NOTE: Make sure all tests are running before committing your changes
 
@@ -77,7 +77,7 @@
 #### codes
 
 - [ ] Make sure spacing between blocks in 2 lines
-- [ ] Make sure the organization is right
+- [ ] Make sure the code organization is right
 - [ ] For local constants should be under local constant comment
 
 ### .router.js

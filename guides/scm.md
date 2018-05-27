@@ -1,4 +1,4 @@
-# SOURCE CODE MANAGEMENT
+# Source Code Management
 
 For this project we are using git as our **Version Control System**.
 
