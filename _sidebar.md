@@ -6,6 +6,10 @@
 
   - [Create Module](get-started/create-module.md)
 
+- Guides
+
+  - [Source Code Management](guides/scm.md)
+
 - Release Checklists
 
   - [Module Release Checklist](release-checklist/module-release-checklist)
@@ -15,6 +19,8 @@
 
   - [API Changelog](changelogs/api-changelog.md)
 
-- [Roadmap](roadmap.md)
+- Roadmap
+
+  - [2018](roadmaps/2018.md)
 
 - [Team](team.md)
