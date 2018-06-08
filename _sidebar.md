@@ -1,6 +1,8 @@
 <!-- Main sidebar -->
 
-- [Home](/)
+- Home
+
+  - [Introduction](/)
 
 - Get Started
 
@@ -8,6 +10,8 @@
 
 - Guides
 
+  - [Best Practices](guides/best-practices.md)
+  - [Testing](guides/testing.md)
   - [Source Code Management](guides/scm.md)
 
 - Release Checklists
