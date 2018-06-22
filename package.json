@@ -1,0 +1,32 @@
+{
+  "name": "majifix-docs",
+  "version": "0.1.0",
+  "description": "Collection of documents for majifix",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeTanzania/majifix-docs.git"
+  },
+  "keywords": [
+    "codetanzania",
+    "majifix",
+    "docs",
+    "open311"
+  ],
+  "author": {
+    "name": "benMaruchu",
+    "email": "benmaruchu@gmail.com",
+    "url": "https://github.com/BenMaruchu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeTanzania/majifix-docs/issues"
+  },
+  "homepage": "https://github.com/CodeTanzania/majifix-docs#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.2.1"
+  }
+}

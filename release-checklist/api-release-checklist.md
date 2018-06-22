@@ -1,0 +1,1 @@
+# Majifix API Release Checklist
