@@ -2,7 +2,7 @@
 
 Below are some of our views on writing tests.
 
-This is not exhaustive test guide but it just explore some of the basic things to check when writing tests
+This is not exhaustive test guide but it just explore some of the basic things to check when writing unit tests
 
 In most cases tests have 3 parts:
 
@@ -10,7 +10,7 @@ In most cases tests have 3 parts:
 - expectedOutput
 - realOutput
 
-`assert(realOutput).toEqual(expectedOutput);
+> `assert(realOutput).toEqual(expectedOutput);`
 
 ## Redux
 

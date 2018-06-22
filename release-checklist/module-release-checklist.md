@@ -102,6 +102,7 @@
 
 - [ ] Remove description field
 - [ ] Remove version field
+- [ ] Update sample url and url to use latest API url format
 
 ## Generate API Documentation
 
