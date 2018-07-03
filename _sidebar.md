@@ -11,6 +11,7 @@
 - Guides
 
   - [Best Practices](guides/best-practices.md)
+  - [Documentation](guides/documentation.md)
   - [Testing](guides/testing.md)
   - [Source Code Management](guides/scm.md)
 
