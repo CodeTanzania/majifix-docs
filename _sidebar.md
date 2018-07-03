@@ -2,7 +2,7 @@
 
 - Home
 
-  - [Introduction](/)
+  - [Introduction](/get-started.md)
 
 - Get Started
 
