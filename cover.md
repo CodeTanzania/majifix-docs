@@ -1,4 +1,4 @@
-# Welcome to Majifix Docs
+# Welcome to Majifix
 
 [GitHub](https://github.com/CodeTanzania)
 [Get Started](/get-started)
