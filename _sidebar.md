@@ -7,6 +7,7 @@
 - Get Started
 
   - [Create Module](get-started/create-module.md)
+  - [Deploy MajiFix](get-started/deploy-platform.md)
 
 - Guides
 
