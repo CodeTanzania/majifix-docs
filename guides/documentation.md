@@ -49,7 +49,7 @@ While documenting a route we recommend the comments to have the following
  * @apiUse AuthorizationHeaderErrorExample
  */
 router.get(PATH_LIST, function getJurisdictions(request, response, next) {
-  /* ... */
+  ...
 }
 ```
 
