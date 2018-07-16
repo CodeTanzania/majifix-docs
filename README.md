@@ -29,3 +29,5 @@ npm install
 ```sh
 npm run serve
 ```
+
+and view it on http://localhost:3000
