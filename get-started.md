@@ -16,14 +16,49 @@ support public service providers in solving each and every problem, while giving
 
 ## Majifix components
 
-MajiFix has different components
+MajiFix has different components. The followin text provides brief description of each component.
 
-- A ticket management system to support public officials to keep track of problems that were reported.
-- A management app that provides statistics about system performance to city managers.
-- A mobile app that citizens can use to easily report problems.
-- A Facebook Messenger Bot, so that people can submit problems through FB Messenger’s interface. No need to download an app.
-- A USSD interface, specially relevant in places where not everyone owns a smartphone.
-- A public website, that publicly shows what is going on with the system.
+### Majifix API
+
+Majifix API is built on Node.JS. It is a RESTful API layer designed in support of reporting and tracking common public service (i.e. water) problems.
+
+It is consists of a suite of node packages covering the business/domain logic (the part of a platform that encodes the real-world business rules that determine how data is created, displayed, stored and changed), built for performance and scale.
+
+You can consider it as the data layer within a platform (including the data model). It is designed to be plugged into a templating layer, a mobile application or to be used with any other data consumer.
+
+Majifix API provides a starting point that's further advanced than a framework. It allows you to get a complete data layer up and running in minutes.
+
+See source code [repository](https://github.com/CodeTanzania/open311-api).
+
+### Majifix management app
+
+Majifix management app is desined to help manaes statistical information about system performance to official city managers.
+
+See source code [repository](https://github.com/CodeTanzania/open311-mobile-manager).
+
+### Majifix client mobile app
+
+Majifix mobile app is used by citizens to help them instantly report problems to city managers
+
+See source code [repository]().
+
+### Majifix facebook messenger bot
+
+Majifix facebook messenger bot is designed to create more social engagement by allowinj citizens to submit problems to the Majifix platform through Facebook Messenger's interface without downloadin the actual app.
+
+See source code [repository](https://github.com/CodeTanzania/facebook-majifix-bot).
+
+### Majifix USSD
+
+Majifix USSD interface, specially relevant in places where not everyone owns a smartphone.
+
+See source code [repository]().
+
+### Majifix website
+
+A public website, that publicly shows what is going on with the system.
+
+See source code [repository](https://github.com/CodeTanzania/majifix.io).
 
 ## Our vision
 
