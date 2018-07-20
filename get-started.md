@@ -40,7 +40,7 @@ See source code [repository](https://github.com/CodeTanzania/open311-mobile-mana
 
 Majifix mobile app is used by citizens to help them instantly report problems to city managers.
 
-See source code [repository]().
+Work still continues in a private repository. A public repository will be available as soon as a stable release is published.
 
 ### Majifix facebook messenger bot
 
