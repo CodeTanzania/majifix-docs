@@ -32,19 +32,19 @@ See source code [repository](https://github.com/CodeTanzania/open311-api).
 
 ### Majifix management app
 
-Majifix management app is desined to help manaes statistical information about system performance to official city managers.
+Majifix management app is designed to help manages statistical information about system performance to official city managers.
 
 See source code [repository](https://github.com/CodeTanzania/open311-mobile-manager).
 
 ### Majifix client mobile app
 
-Majifix mobile app is used by citizens to help them instantly report problems to city managers
+Majifix mobile app is used by citizens to help them instantly report problems to city managers.
 
 See source code [repository]().
 
 ### Majifix facebook messenger bot
 
-Majifix facebook messenger bot is designed to create more social engagement by allowinj citizens to submit problems to the Majifix platform through Facebook Messenger's interface without downloadin the actual app.
+Majifix facebook messenger bot is designed to create more social engagement by allowing citizens to submit problems to the Majifix platform through Facebook Messenger's interface without downloadin the actual app.
 
 See source code [repository](https://github.com/CodeTanzania/facebook-majifix-bot).
 
