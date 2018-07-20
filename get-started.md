@@ -16,7 +16,7 @@ support public service providers in solving each and every problem, while giving
 
 ## Majifix components
 
-MajiFix has different components. The followin text provides brief description of each component.
+MajiFix has different components. The following text provides brief description of each component.
 
 ### Majifix API
 
@@ -36,7 +36,7 @@ Majifix management app is designed to help manages statistical information about
 
 See source code [repository](https://github.com/CodeTanzania/open311-mobile-manager).
 
-### Majifix client mobile app
+### Majifix citizen mobile app
 
 Majifix mobile app is used by citizens to help them instantly report problems to city managers.
 
@@ -44,7 +44,7 @@ Work still continues in a private repository. A public repository will be availa
 
 ### Majifix facebook messenger bot
 
-Majifix facebook messenger bot is designed to create more social engagement by allowing citizens to submit problems to the Majifix platform through Facebook Messenger's interface without downloadin the actual app.
+Majifix facebook messenger bot is designed to create more social engagement by allowing citizens to submit problems to the Majifix platform through Facebook Messenger's interface without downloading the actual app.
 
 See source code [repository](https://github.com/CodeTanzania/facebook-majifix-bot).
 
@@ -52,7 +52,7 @@ See source code [repository](https://github.com/CodeTanzania/facebook-majifix-bo
 
 Majifix USSD interface, specially relevant in places where not everyone owns a smartphone.
 
-See source code [repository]().
+See source code *This is yet to be published*.
 
 ### Majifix website
 
