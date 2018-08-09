@@ -5,7 +5,7 @@
 The most preferred editor used currently in the project is [Visual Studio Code](https://code.visualstudio.com/). If you opt to use this editor we advice you
 have these extensions installed in your editor.
 
-- jshint
+- Jshint
 - EditorConfig for VSCode
 - ESLint
 - Sublime Babel

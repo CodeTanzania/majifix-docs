@@ -1,11 +1,11 @@
-# Majifix Module Release Checklist
+# MajiFix Module Release Checklist
 
 > NOTE: Make sure all tests are running before committing your changes
 
 ## Update Dependencies
 
 - [ ] Update faker dev dependency to use **@benmaruchu/faker**
-- [ ] Update all majifix modules used to latest version of **@codetanzania/majifix-{module-name}**
+- [ ] Update all MajiFix modules used to latest version of **@codetanzania/majifix-{module-name}**
 - [ ] Update other dependencies
 - [ ] Fix Http router specs to use api version in URL from app router
 - [ ] Remove body parser in dev dependency

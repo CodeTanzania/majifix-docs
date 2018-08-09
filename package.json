@@ -1,7 +1,7 @@
 {
   "name": "majifix-docs",
   "version": "0.1.0",
-  "description": "Collection of documents for majifix",
+  "description": "Collection of documents for MajiFix",
   "main": "index.js",
   "scripts": {
     "serve": "docsify serve ."

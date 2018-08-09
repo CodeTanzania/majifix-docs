@@ -2,15 +2,17 @@
 
 - Home
 
-  - [Introduction](/)
+  - [Introduction](/get-started.md)
 
 - Get Started
 
   - [Create Module](get-started/create-module.md)
+  - [Deploy MajiFix](get-started/deploy-platform.md)
 
 - Guides
 
   - [Best Practices](guides/best-practices.md)
+  - [Documentation](guides/documentation.md)
   - [Testing](guides/testing.md)
   - [Source Code Management](guides/scm.md)
 
