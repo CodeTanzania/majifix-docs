@@ -1,4 +1,4 @@
-# Majifix
+# MajiFix
 
 MajiFix was developed by the World Bank in Tanzania to solve the challenge of tracking problems in cities through citizen crowd sourcing.
 
