@@ -1,4 +1,4 @@
-# Majifix
+# MajiFix
 
 MajiFix was developed by the World Bank in Tanzania to solve the challenge of tracking problems in cities through citizen crowd sourcing.
 
@@ -14,47 +14,47 @@ Open city governments, by creating new communication channels with their citizen
 allow citizens to report problems they face in their daily lives, and empowering them to share existing problems.
 support public service providers in solving each and every problem, while giving feedback to people about updates on the efforts to solve each problem.
 
-## Majifix components
+## MajiFix components
 
 MajiFix has different components. The following text provides brief description of each component.
 
-### Majifix API
+### MajiFix API
 
-Majifix API is built on Node.JS. It is a RESTful API layer designed in support of reporting and tracking common public service (i.e. water) problems.
+MajiFix API is built on Node.JS. It is a RESTful API layer designed in support of reporting and tracking common public service (i.e. water) problems.
 
 It is consists of a suite of node packages covering the business/domain logic (the part of a platform that encodes the real-world business rules that determine how data is created, displayed, stored and changed), built for performance and scale.
 
 You can consider it as the data layer within a platform (including the data model). It is designed to be plugged into a templating layer, a mobile application or to be used with any other data consumer.
 
-Majifix API provides a starting point that's further advanced than a framework. It allows you to get a complete data layer up and running in minutes.
+MajiFix API provides a starting point that's further advanced than a framework. It allows you to get a complete data layer up and running in minutes.
 
 See source code [repository](https://github.com/CodeTanzania/open311-api).
 
-### Majifix management app
+### MajiFix management app
 
-Majifix management app is designed to help manages statistical information about system performance to official city managers.
+MajiFix management app is designed to help manages statistical information about system performance to official city managers.
 
 See source code [repository](https://github.com/CodeTanzania/open311-mobile-manager).
 
-### Majifix citizen mobile app
+### MajiFix citizen mobile app
 
-Majifix mobile app is used by citizens to help them instantly report problems to city managers.
+MajiFix mobile app is used by citizens to help them instantly report problems to city managers.
 
 Work still continues in a private repository. A public repository will be available as soon as a stable release is published.
 
-### Majifix facebook messenger bot
+### MajiFix facebook messenger bot
 
-Majifix facebook messenger bot is designed to create more social engagement by allowing citizens to submit problems to the Majifix platform through Facebook Messenger's interface without downloading the actual app.
+MajiFix facebook messenger bot is designed to create more social engagement by allowing citizens to submit problems to the MajiFix platform through Facebook Messenger's interface without downloading the actual app.
 
 See source code [repository](https://github.com/CodeTanzania/facebook-majifix-bot).
 
-### Majifix USSD
+### MajiFix USSD
 
-Majifix USSD interface, specially relevant in places where not everyone owns a smartphone.
+MajiFix USSD interface, specially relevant in places where not everyone owns a smartphone.
 
 See source code *This is yet to be published*.
 
-### Majifix website
+### MajiFix website
 
 A public website, that publicly shows what is going on with the system.
 

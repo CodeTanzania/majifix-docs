@@ -1,1 +1,1 @@
-# Deploy Majifix Checklist
+# Deploy MajiFix Checklist

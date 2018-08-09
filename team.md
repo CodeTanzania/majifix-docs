@@ -1,1 +1,1 @@
-# Majifix Team
+# MajiFix Team

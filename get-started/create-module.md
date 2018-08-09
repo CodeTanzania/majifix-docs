@@ -1,6 +1,6 @@
-# Create Majifix Module
+# Create MajiFix Module
 
-To create a new Majifix module follow these steps
+To create a new MajiFix module follow these steps
 
 - Clone this [repository](https://github.com/CodeTanzania/majifix-module-starter)
 - Delete .git folder by running
