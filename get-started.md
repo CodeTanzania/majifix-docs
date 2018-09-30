@@ -10,9 +10,9 @@ MajiFix is completely open source. It is free to use and to adapt, or adopt by a
 
 With MajiFix, we aim to:
 
-Open city governments, by creating new communication channels with their citizens.
-allow citizens to report problems they face in their daily lives, and empowering them to share existing problems.
-support public service providers in solving each and every problem, while giving feedback to people about updates on the efforts to solve each problem.
+- Open city governments, by creating new communication channels with their citizens.
+- Allow citizens to report problems they face in their daily lives, and empowering them to share existing problems.
+- Support public service providers in solving each and every problem, while giving feedback to people about updates on the efforts to solve each problem.
 
 ## MajiFix components
 
@@ -38,7 +38,7 @@ See source code [repository](https://github.com/CodeTanzania/open311-mobile-mana
 
 ### MajiFix citizen mobile app
 
-MajiFix mobile app is used by citizens to help them instantly report problems to city managers.
+MajiFix mobile app is used by citizens to help them instantly report problems to water utility company.
 
 Work still continues in a private repository. A public repository will be available as soon as a stable release is published.
 
@@ -52,7 +52,7 @@ See source code [repository](https://github.com/CodeTanzania/facebook-majifix-bo
 
 MajiFix USSD interface, specially relevant in places where not everyone owns a smartphone.
 
-See source code *This is yet to be published*.
+See source code _This is yet to be published_.
 
 ### MajiFix website
 
